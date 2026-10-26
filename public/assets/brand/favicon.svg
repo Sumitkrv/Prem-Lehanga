@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="32" fill="#4c1024"/>
+  <text x="32" y="35" text-anchor="middle" font-family="Georgia,serif" font-size="10" letter-spacing="1.4" fill="#f6f0e6">PREM</text>
+  <path d="M18 42h28" stroke="#d9bc88" stroke-width=".7"/>
+</svg>
